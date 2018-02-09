@@ -1,0 +1,2 @@
+# testDirSebprog16
+initCommitDir
